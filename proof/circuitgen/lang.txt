@@ -1,0 +1,12 @@
+//comment
+
+#use macro
+pub input
+aux input
+
+=> constraint: weight sum a * weighted sum b = weight sum c
+
+. namespaces
+
+@ load: copy paste line from constants.txt
+

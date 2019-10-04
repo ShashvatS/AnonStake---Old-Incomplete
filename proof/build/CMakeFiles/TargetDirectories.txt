@@ -1,0 +1,11 @@
+/home/shash/Documents/anon/fullproof/proof/build/CMakeFiles/rebuild_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/CMakeFiles/test.dir
+/home/shash/Documents/anon/fullproof/proof/build/CMakeFiles/edit_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/client/CMakeFiles/rebuild_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/client/CMakeFiles/edit_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/client/CMakeFiles/client.dir
+/home/shash/Documents/anon/fullproof/proof/build/client/CMakeFiles/test.dir
+/home/shash/Documents/anon/fullproof/proof/build/main/CMakeFiles/rebuild_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/main/CMakeFiles/edit_cache.dir
+/home/shash/Documents/anon/fullproof/proof/build/main/CMakeFiles/main.dir
+/home/shash/Documents/anon/fullproof/proof/build/main/CMakeFiles/test.dir

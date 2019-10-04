@@ -1,0 +1,20 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["shash"]
+edition = "2018"
+
+[dependencies]
+rand = "0.4"
+bit-vec = "0.4.4"
+futures = "0.1"
+futures-cpupool = "0.1"
+num_cpus = "1"
+crossbeam = "0.3"
+pairing = "0.14"
+byteorder = "1"
+ff = "0.4.0"
+libc = "0.2.50"
+
+[lib]
+crate-type = ["cdylib"]
